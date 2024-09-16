@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Zombie Game - NFT
 
 This project was built for NFT-game platform.
 
